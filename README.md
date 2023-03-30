@@ -2,7 +2,7 @@
 
 Recently I was tasked with converting some Excel tables into Power BI with the additional functionality of making the columns selectable. The Power BI extract would need to look exactly the same, this meant including the columns in the same order and keeping any formatting of the individual fields. There wasn't anything that covered the exact scenario so I decided to write this blog in hopes that it would help someone else.
 
-I started with a dataset in a matrix that replicated the table structure of Excel (shown below). Each column had the individual field formatted to show the correct data format. The Product was displayed under the relevant product group and assosiated month.
+I started with a dataset in a matrix that replicated the table structure of Excel (shown below). Each column had the individual field formatted to show the correct data format. The Product was displayed under the relevant product group and associated month.
 
 ![image](https://user-images.githubusercontent.com/126701906/228939744-b7b20c5d-1204-4e10-bbee-a5d45205c3bc.png)
 
